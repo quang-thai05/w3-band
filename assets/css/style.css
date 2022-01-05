@@ -201,7 +201,7 @@ html {
 #slider {
   margin-top: 46.5px;
   padding-top: 50%; /*x% chiều ngang của chính nó */
-  background: url("/assets/image/slider/chicago.jpg") top center / cover
+  background: url("../image/slider/chicago.jpg") top center / cover
     no-repeat;
   text-align: center;
   position: relative;
